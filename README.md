@@ -13,3 +13,17 @@ Her bir thread ilgili aralıktaki maksimum bölen sayısı olan sayıyı ve böl
 Main her 2 sn'de bir dosyaları kontrol edecek.
 Tüm dosyalar oluşmuşsa o dosyalardan verileri okuyup 1-100000 arasında maksimum bölen sayısı olan sayıyı ve bölen sayısını ekrana yazdıracak.
 
+Oluşan Dosyalar :
+
+[1.txt](https://github.com/sdmercan/Multithreading/files/4014062/1.txt)
+
+[2.txt](https://github.com/sdmercan/Multithreading/files/4014063/2.txt)
+
+[3.txt](https://github.com/sdmercan/Multithreading/files/4014064/3.txt)
+
+[4.txt](https://github.com/sdmercan/Multithreading/files/4014065/4.txt)
+
+Console Çıktısı : 
+
+![Screenshot_5](https://user-images.githubusercontent.com/49806516/71641550-01d72f80-2caf-11ea-977b-7908f3f6d908.png)
+
